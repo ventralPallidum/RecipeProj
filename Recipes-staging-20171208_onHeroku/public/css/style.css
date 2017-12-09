@@ -1,0 +1,32 @@
+body {
+
+  background-image: url("/images/img5.jpg");
+   background-repeat: repeat-x;
+
+}
+#figuireCaption{
+  display:flex;
+  justify-content:center;
+}
+#carousel{
+background-color: #9e7978;
+}
+#recipeBackground{
+  background-color: #9e7978;
+}
+#contentBackground{
+  background-image: url("/images/img5.jpg");
+}
+
+.currentToolbar{
+  background-image: url("/images/img5.jpg");
+   background-repeat: repeat-x;
+}
+
+#textBox{
+  margin-top:20px;
+}
+#background{
+  background-image: url("/images/img5.jpg");
+
+}
